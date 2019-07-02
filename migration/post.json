@@ -1,0 +1,17 @@
+{
+  "tableName": "poststest",
+  "fields": {
+    "id" : {
+      "type" : "int",
+      "property": "PRIMARY KEY AUTO_INCREMENT NOT NULL "
+    },
+    "content" : {
+      "type" : "varchar(255)",
+      "property": ""
+    },
+    "subcontent" : {
+      "type" : "varchar(255)",
+      "property": ""
+    }
+  }
+}
